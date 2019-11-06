@@ -5,7 +5,7 @@ const dragActive = css`
 `;
 
 const dragReject = css`
-  border-color: #e57878;
+  border-color: #78e5d5;
 `;
 
 export const DropContainer = styled.div.attrs({
@@ -21,7 +21,7 @@ export const DropContainer = styled.div.attrs({
 
 const messageColors = {
   default: "#999",
-  error: "#e57878",
+  error: "#78e5d5",
   success: "#78e5d5"
 };
 
